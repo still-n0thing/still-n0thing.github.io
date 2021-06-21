@@ -46,18 +46,23 @@ body {
 
             &:nth-of-type(1) {
                 background-color: rgb(28, 28, 28);
-                color: green;
+                color: red;
             }
 
             &:nth-of-type(2) {
                 background-color: rgb(38, 38, 38);
-                color: blue;
+                color: green;
             }
 
             &:nth-of-type(3) {
                 background-color: rgb(48, 48, 48);
-                color: yellow;
+                color: blue;
             }
+
+            // &:nth-of-type(4) {
+            //     background-color: rgb(58, 58, 58);
+            //     color: blueviolet;
+            // }
 
             h1 {
                 font-family: Arial, Helvetica, sans-serif;

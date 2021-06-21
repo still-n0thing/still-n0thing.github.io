@@ -78,17 +78,17 @@ body .container section {
 
 body .container section:nth-of-type(1) {
   background-color: #1c1c1c;
-  color: green;
+  color: red;
 }
 
 body .container section:nth-of-type(2) {
   background-color: #262626;
-  color: blue;
+  color: green;
 }
 
 body .container section:nth-of-type(3) {
   background-color: #303030;
-  color: yellow;
+  color: blue;
 }
 
 body .container section h1 {
